@@ -14,7 +14,7 @@ imgSize = 300
 folder = "Data/1"
 counter = 0
 
-labels = ["1", "2", "3", "4", "5"]
+labels = ["1", "2", "3", "4", "5", "A", "B", "C", "D"]
 
 while True:
     success, img = cap.read()
